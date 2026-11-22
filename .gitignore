@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and credentials
+.venv/
+venv/
+.env
+.env.*
+!.env.example
